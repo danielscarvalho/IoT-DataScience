@@ -6,7 +6,7 @@ IoT (Internet of Things)
 
 **Data science projects greatly benefit from IoT devices and sensor data by gaining access to continuous, real-time, high-volume, and highly granular data streams from the physical world.** Sensors in IoT devices (temperature, humidity, motion, GPS, accelerometers, air quality, etc.) generate massive datasets that capture real-world patterns, behaviors, and environmental conditions over time. This rich data enables data scientists to build more accurate predictive models, detect anomalies, optimize processes, and uncover hidden insights through machine learning, time-series analysis, and statistical modeling. For example, IoT data allows for predictive maintenance in manufacturing, personalized health monitoring, energy consumption optimization in smart buildings, and urban traffic forecasting — all with higher precision and timeliness than traditional data sources. The combination of IoT’s scale, variety, and velocity of data significantly accelerates feature engineering, model training, and real-world validation of data science solutions.
 
-<img width="726" height="574" alt="image" src="https://github.com/user-attachments/assets/0d6fd6ea-b567-4ea9-b1c0-242f5ecd341c" />
+<img style="background-color:white;" width="726" height="574" alt="image" src="https://github.com/user-attachments/assets/0d6fd6ea-b567-4ea9-b1c0-242f5ecd341c" />
 
 Devices families:
 - Arduino: 
