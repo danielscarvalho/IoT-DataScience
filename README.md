@@ -19,6 +19,7 @@ A handheld computing device that combines mobile phone capabilities with powerfu
 A compact, portable multi-tool for hardware enthusiasts, security researchers, and pentesters. It can interact with RFID/NFC cards, infrared devices, sub-GHz radio signals, iButton, and more—often described as a "Swiss Army knife" for digital and physical security testing.
 - BBC Micro
 A series of microcomputers designed by Acorn Computers and released in 1981 as part of the BBC Computer Literacy Project in the UK. Famous for its role in education, it introduced a generation to programming (especially BBC BASIC) and influenced the development of ARM processors.
+- Raspberry Pi: It is a compact, credit-card-sized single-board computer developed in the UK to promote computer science education. It runs a full Linux operating system and offers impressive computing power for its size, making it extremely popular for DIY projects, IoT, home automation, media centers, robotics, and even edge AI applications.
 
 ---
 
@@ -122,3 +123,40 @@ A series of microcomputers designed by Acorn Computers and released in 1981 as p
 - Video output (to monitor/TV)  
 - Printer port  
 - Expansion bus (for motors, lights, etc.)
+
+### **Raspberry Pi**
+
+**Sensors (common):**  
+- Camera modules (official Pi Camera)  
+- DHT11/DHT22 (temperature & humidity)  
+- BMP180/BME280 (pressure & temperature)  
+- PIR motion sensor  
+- Ultrasonic distance sensor  
+- Soil moisture sensor  
+- MQ series gas sensors  
+- IMU (accelerometer + gyro)  
+- GPS modules  
+- Touch sensors  
+
+**Actuators (common):**  
+- Servo motors & DC motors  
+- Stepper motors  
+- LEDs & NeoPixel/WS2812 RGB strips  
+- Relays (for high-power devices)  
+- Buzzers / Speakers  
+- LCD / OLED / Touchscreen displays  
+- Cooling fans  
+- Robotic arms & chassis  
+
+**Key Advantages:** GPIO pins for easy hardware interfacing, support for multiple programming languages (Python is the most popular), built-in Wi-Fi/Bluetooth on newer models (Pi 3, 4, 5), and a powerful CPU/GPU for running complex software, computer vision, and machine learning models directly on the device.
+
+Books:
+
+<img width="309" height="466" alt="image" src="https://github.com/user-attachments/assets/5ba14618-ddc5-47e8-8192-18d64c3d2d8c" />
+<img width="323" height="385" alt="image" src="https://github.com/user-attachments/assets/cd7cd6e1-66e3-4d0b-b2cd-c517a740fa6d" />
+
+References
+
+- https://m5stack.com/
+- https://www.arduino.cc/
+- https://www.raspberrypi.org/
