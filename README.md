@@ -122,5 +122,3 @@ A series of microcomputers designed by Acorn Computers and released in 1981 as p
 - Video output (to monitor/TV)  
 - Printer port  
 - Expansion bus (for motors, lights, etc.)
-
-Would you like me to expand any of these lists or focus on a specific device?
