@@ -160,10 +160,10 @@ A series of microcomputers designed by Acorn Computers and released in 1981 as p
 
 Books:
 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/5ba14618-ddc5-47e8-8192-18d64c3d2d8c" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/cd7cd6e1-66e3-4d0b-b2cd-c517a740fa6d" />
-<img width="400" height="397" alt="image" src="https://github.com/user-attachments/assets/b4b35e4a-9d97-4466-b9a4-7e06fbfdfea1" />
-<img width="400" height="1500" alt="image" src="https://github.com/user-attachments/assets/6be696b7-2bed-4dba-88dd-04a1e8ad690d" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5ba14618-ddc5-47e8-8192-18d64c3d2d8c" /><br>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/cd7cd6e1-66e3-4d0b-b2cd-c517a740fa6d" /><br>
+<img width="400" height="397" alt="image" src="https://github.com/user-attachments/assets/b4b35e4a-9d97-4466-b9a4-7e06fbfdfea1" /><br>
+<img width="400" height="1500" alt="image" src="https://github.com/user-attachments/assets/6be696b7-2bed-4dba-88dd-04a1e8ad690d" /><br>
 
 References
 
